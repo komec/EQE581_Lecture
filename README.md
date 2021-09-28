@@ -1,7 +1,7 @@
 <p align="left">  <img src="https://github.com/komec/EQE582_Intro.to-Seismology/blob/master/images/GTU_LOGO_1200X768_JPG_EN_Small.jpg" width = 20% > </p>
 ---
 
-<div style='background-image: "intro_pic.png" ; padding: 0px ; background-size: cover ; border-radius: 5px ; height: 500px'>
+<div style='background-image: "https://github.com/komec/EQE582_Intro.to-Seismology/blob/master/images/mainshock-egplot.png" ; padding: 0px ; background-size: cover ; border-radius: 5px ; height: 500px'>
     <div style="float: center ; margin: 50px ; padding: 30px ; background: rgba(255 , 255 , 255 , 0.7) ; width: 50% ; height: 150px">
         <div style="position: left ; top: 50% ; transform: translatey(-50%)">
             <div style="font-size: x-large ; font-weight: 600 ; color: rgba(0 , 0 ,10 , 0.6) ; line-height: 70%">Department of Civil Engineering</div>
