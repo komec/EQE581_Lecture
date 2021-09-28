@@ -30,28 +30,21 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+      <a href="#installatio">Installation</a>
+      <ul>        
+         [PYTHON ](https://www.python.org/downloads/)
       </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    </li>  
   </ol>
 </details>
 
 
 
 ---
-Attend to [Slack App](https://join.slack.com/t/seismicsignal-gks2551/shared_invite/zt-wdpakokl-GH7PoT9vBJOCEH8~n0ENmg);an informal platform for **Q/A** discussions about SSP and more.
+Attend to [Slack App](https://join.slack.com/t/seismicsignal-gks2551/shared_invite/zt-wdpakokl-GH7PoT9vBJOCEH8~n0ENmg);  an informal platform for **Q/A** discussions about SSP and more.
 
 ---
-## Contact
+# Contact
 
 Ahu Kömeç Mutlu :smiley: [@komec](https://twitter.com/ahukomecmutlu)
 
