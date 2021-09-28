@@ -1,4 +1,4 @@
-<p align="right">  <img src="https://github.com/komec/EQE582_Intro.to-Seismology/blob/master/images/GTU_LOGO_1200X768_JPG_EN_Small.jpg" width = 20% > </p>
+<p align="right">  <img src="https://github.com/komec/EQE582_Intro.to-Seismology/blob/master/images/GTU_LOGO_1200X768_JPG_EN_Small.jpg" width = 10% > </p>
 
 <h1 align="center">EQE 581_SEISMIC SIGNAL PROCESSING</h1>
 <p align="center">with Python Applications</p>
@@ -10,7 +10,7 @@
 <details open="open">
   <summary>TABLE OF CONTENTS</summary>
   <ol>
-    <li>
+    <li>      
       <a href="#SYLLABUS">SYLLABUS </a>
       <ul>
         <li><a href="#Week 1">Week-1_Introduction to Seismic Signal Prcessing</a></li>
@@ -29,7 +29,7 @@
         <li><a href="#Week 14">Week-14_Animate Data (Homework 6)</a></li>
       </ul>
     </li>
-    <li>
+    <li>      
       <a href="#installatio">Installation</a>
       <ul>        
          [PYTHON ](https://www.python.org/downloads/)
